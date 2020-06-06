@@ -1,32 +1,32 @@
-# Edu.Emails
+# edu-e-posta
 
-Edu.Emails is a simple Python Code that automatically creates .Edu emails.
+otomatik .edu e-postaları olarak oluşturan basit bir Python Kodu.
 
-## Requirements
-#### Install Python:
-[Python official website](https://www.python.org/downloads/)
+## Gereksinimler
+#### Python'u Yükle:
+[Python resmi site](https://www.python.org/downloads/)
 
-#### Install Python Modules
+#### Python Modüllerini Yükle
 ```python
 pip install selenium
 ```
-You will also need: random, time, os, secrets and string. But they are preinstalled in most Python releases.
-## Usage
-After installing Python and the necessary modules above, follow the instructions bellow:
-* Run the "Run_me.py" file.(You must use a USA VPN)
-* You will be asked to enter an email address.(You must enter a real address, fake ones won't work). 
-* Press Enter after filling in your address.
-* Wait for the code to generate fake info.
-* You will be asked to resolve the Captcha. Resolve it then press "y" then enter.
-* Wait for the data to be saved.
-* You will need to wait 7-10 days for the application to be accepted by the college.
-* Congratulations. Your .Edu email is ready to use. Log in to [Gmail](https://mail.google.com/) and change your password.
+Ayrıca `random`, `time`, `os`, `secrets` ve `string` paketlerine de ihtiyacınız var. Ancak çoğu Python sürümüne önceden yüklenmiştir. Hata alırsanız bunları da yükleyin. Şu şekilde: `pip install secrets`
+## Kullanım
+Python'u ve yukarıdaki gerekli modülleri kurduktan sonra, aşağıdaki talimatları izleyin:
+* "Run_me.py" dosyasını çalıştırın. (`python Run_me.py`) (Amerikada olduğunuzu gösteren bir VPN kullanmalısınız)
+* Bir e-posta adresi girmeniz istenecektir. (Gerçek bir adres girmelisiniz, sahte adresler çalışmaz).
+* Adresinizi girdikten sonra Enter tuşuna basın.
+* Kodun sahte bilgi üretmesini bekleyin.
+* Captcha'yı çözmeniz istenecektir. Çözdükten sonra "y" ye basın ve ardından enter tuşuna basın.
+* Verilerin kaydedilmesini bekleyin.
+* Başvurunun üniversite tarafından kabul edilebilmesi için 7-10 gün beklemeniz gerekecektir.
+* Tebrikler. ".edu" e-postanız kullanıma hazır. [Gmail](https://mail.google.com/)'e giriş yapın ve şifrenizi değiştirin.
 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Katkı
+Çekme istekleri (PR) kabul edilir. Büyük değişiklikler için, lütfen neyi değiştirmek istediğinizi tartışmak üzere bir sorun (issue) açın.
 
-Please make sure to update tests as appropriate.
+PLütfen testleri uygun şekilde güncellediğinizden emin olun.
 
-## License
+## Lisans
 [MIT](https://github.com/AnwarMEQOR/Edu.Emails/blob/master/LICENSE.txt)
