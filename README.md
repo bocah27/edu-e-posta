@@ -24,7 +24,7 @@ Google Drive Depolama Hesabı
 
 ## Kullanım
 - öncelikle python'u sisteminize kurun. [python 3.8+](https://www.python.org/downloads/)
- `pip install selenium` ile selenium'u kurun.
+- ardından `pip install selenium` ile selenium'u kurun.
 - - Ayrıca `random`, `time`, `os`, `secrets` ve `string` paketlerine de ihtiyacınız var. Ancak çoğu Python sürümüne önceden yüklenmiştir. Hata alırsanız bunları da yükleyin. Şu şekilde: `pip install secrets`
 
 - "run_me.py" dosyasını çalıştırın. (`python run_me.py`) (Amerikada olduğunuzu gösteren bir VPN kullanmalısınız)
