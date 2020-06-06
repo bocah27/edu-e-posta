@@ -1,6 +1,28 @@
-# edu-e-posta
+# Edu-e-posta
 
 otomatik .edu e-postaları olarak oluşturan basit bir Python Kodu.
+
+## Edu e-posta'nın avantajları [[kaynak]](https://www.quora.com/What-are-the-benefits-of-having-an-edu-email-address-extension):
+Amazon Prime Hesabı
+
+Azure Vds -Vps açabilirsiniz (sanal pc)
+
+Washington Post Premium Hesabı
+
+Newyork Times Hesabı
+
+Öğrenciler için Apple iPhone İndirimleri
+
+Adobe Creative Cloud
+
+Spotify Hesabı
+
+MS Office 365
+
+Github Geliştirici Öğrenci Hesabı
+
+Google Drive Depolama Hesabı
+
 
 ## Gereksinimler
 #### Python'u Yükle:
