@@ -34,7 +34,7 @@ pip install selenium
 Ayrıca `random`, `time`, `os`, `secrets` ve `string` paketlerine de ihtiyacınız var. Ancak çoğu Python sürümüne önceden yüklenmiştir. Hata alırsanız bunları da yükleyin. Şu şekilde: `pip install secrets`
 ## Kullanım
 Python'u ve yukarıdaki gerekli modülleri kurduktan sonra, aşağıdaki talimatları izleyin:
-* "Run_me.py" dosyasını çalıştırın. (`python Run_me.py`) (Amerikada olduğunuzu gösteren bir VPN kullanmalısınız)
+* "run_me.py" dosyasını çalıştırın. (`python run_me.py`) (Amerikada olduğunuzu gösteren bir VPN kullanmalısınız)
 * Bir e-posta adresi girmeniz istenecektir. (Gerçek bir adres girmelisiniz, sahte adresler çalışmaz).
 * Adresinizi girdikten sonra Enter tuşuna basın.
 * Kodun sahte bilgi üretmesini bekleyin.
