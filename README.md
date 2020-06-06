@@ -1,6 +1,5 @@
-# Edu-e-posta
-
-otomatik .edu e-postaları olarak oluşturan basit bir Python Kodu.
+<h2 align="center"><a href="https://www.google.com/search?&q=edu-e-posta+xorcan" alt="edu eposta xorcan"><img src="https://raw.githubusercontent.com/xorcan/edu-e-posta/master/pages/info.png" width="250"></a></br>
+<b>Ücretsiz .Edu E-posta (betik)</b></h2><h4 align="center">otomatik .edu e-postaları olarak oluşturan basit bir Python Kodu.</h4>
 
 ## Edu e-posta'nın avantajları [[kaynak]](https://www.quora.com/What-are-the-benefits-of-having-an-edu-email-address-extension):
 Amazon Prime Hesabı
@@ -44,11 +43,16 @@ Python'u ve yukarıdaki gerekli modülleri kurduktan sonra, aşağıdaki talimat
 * Başvurunun üniversite tarafından kabul edilebilmesi için 7-10 gün beklemeniz gerekecektir.
 * Tebrikler. ".edu" e-postanız kullanıma hazır. [Gmail](https://mail.google.com/)'e giriş yapın ve şifrenizi değiştirin.
 
+[başka bir kaynaktan](https://web.archive.org/save/https://teknolly.com/bedava-edu-mail-acma-yontemi-guncel)
 
 ## Katkı
 Çekme istekleri (PR) kabul edilir. Büyük değişiklikler için, lütfen neyi değiştirmek istediğinizi tartışmak üzere bir sorun (issue) açın.
 
-PLütfen testleri uygun şekilde güncellediğinizden emin olun.
+## Uyarı
+
+Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz.
+
+PLütfen testleri uygun şekilde güncellediğinizden emin olun. 
 
 ## Lisans
-[MIT](https://github.com/AnwarMEQOR/Edu.Emails/blob/master/LICENSE.txt)
+[MIT](https://github.com/xorcan/edu-e-posta/blob/master/LICENSE.txt)
