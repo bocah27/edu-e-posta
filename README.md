@@ -36,7 +36,11 @@ Google Drive Depolama Hesabı
 - Başvurunun üniversite tarafından kabul edilebilmesi için 7-10 gün beklemeniz gerekecektir.
 - Tebrikler. ".edu" e-postanız kullanıma hazır. [Gmail](https://mail.google.com/)'e giriş yapın ve şifrenizi değiştirin.
 
-[başka bir kaynaktan](https://web.archive.org/save/https://teknolly.com/bedava-edu-mail-acma-yontemi-guncel)
+## Diğer Kaynaklar
+
+- [teknolly](https://web.archive.org/save/https://teknolly.com/bedava-edu-mail-acma-yontemi-guncel)
+- [worldscholarshipforum](https://web.archive.org/web/20200607085506/https://worldscholarshipforum.com/tr/create-edu-email-account-free/)
+- [xenweb](https://web.archive.org/web/20200607085523/https://xenweb.net/ucretsiz-edu-e-posta-adresi-2020-nasil-olusturulur/)
 
 ## Katkı
 Çekme istekleri (PR) kabul edilir. Büyük değişiklikler için, lütfen neyi değiştirmek istediğinizi tartışmak üzere bir sorun (issue) açın.
