@@ -1,6 +1,8 @@
 <h2 align="center"><a href="https://www.google.com/search?&q=edu-e-posta+xorcan" alt="edu eposta xorcan"><img src="https://raw.githubusercontent.com/xorcan/edu-e-posta/master/pages/info.png" width="250"></a></br>
 <b>Ücretsiz .Edu E-posta (betik)</b></h2><h4 align="center">Otomatik .edu e-postaları oluşturan basit bir Python Kodu.</h4>
 
+## Kodları farkedip siteyi düzenlemişler. Şu an için çalışmıyor.
+
 ## Edu e-posta'nın avantajları [[kaynak]](https://www.quora.com/What-are-the-benefits-of-having-an-edu-email-address-extension):
 Amazon Prime Hesabı
 
