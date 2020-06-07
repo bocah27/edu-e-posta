@@ -2,7 +2,7 @@
 <b>Ücretsiz .Edu E-posta (betik)</b></h2><h4 align="center">Otomatik .edu e-postaları oluşturan basit bir Python Kodu.</h4>
 
 ## Güncelleme
-Kodları farkedip siteyi düzenlemişler. Şu an için çalışmıyor. Kodu çalıştırdıktan sonra alttaki kaynaklardan kaydınızı tamamlayın. Mail adresinize birkaç gün içinde haber vereceklerdir.
+Kodları farkedip siteyi düzenlemişler. Şu an için tam düzgün çalışmıyor. Kod sizi bir yere kadar götürüp hata verince terminalinizde yazan bilgilerden faydalanarak ve alttaki kaynaklardan kaydınızı tamamlayın. Mail adresinize birkaç gün içinde haber vereceklerdir.
 
 ## Edu e-posta'nın avantajları [[kaynak]](https://www.quora.com/What-are-the-benefits-of-having-an-edu-email-address-extension):
 - Amazon Prime Hesabı
