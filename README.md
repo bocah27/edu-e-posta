@@ -21,7 +21,7 @@ Kodları farkedip siteyi düzenlemişler. Şu an için tam düzgün çalışmıy
 - [chrome (80+)](https://www.google.com/intl/tr/chrome/)'u kurun.
 - [python (3.8+)](https://www.python.org/downloads/)'u kurun. 
 - ardından `pip install selenium` ile selenium'u kurun.
-- - Ayrıca `random`, `time`, `os`, `secrets` ve `string` paketlerine de ihtiyacınız var. Ancak çoğu Python sürümüne önceden yüklenmiştir. Hata alırsanız bunları da yükleyin. Şu şekilde: `pip install secrets`
+  - Ayrıca `random`, `time`, `os`, `secrets` ve `string` paketlerine de ihtiyacınız var. Ancak çoğu Python sürümüne önceden yüklenmiştir. Hata alırsanız bunları da yükleyin. Şu şekilde: `pip install secrets`
 
 - "run_me.py" dosyasını çalıştırın. (`python run_me.py`) (Amerikada olduğunuzu gösteren bir VPN kullanmalısınız)
 - Bir e-posta adresi girmeniz istenecektir. (Gerçek bir adres girmelisiniz, sahte adresler çalışmaz).
@@ -46,7 +46,7 @@ Kodları farkedip siteyi düzenlemişler. Şu an için tam düzgün çalışmıy
 
 Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz.
 
-PLütfen testleri uygun şekilde güncellediğinizden emin olun. 
+Lütfen testleri uygun şekilde güncellediğinizden emin olun. 
 
 ## Lisans
 [MIT](https://github.com/xorcan/edu-e-posta/blob/master/LICENSE.txt)
