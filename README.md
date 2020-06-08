@@ -34,7 +34,7 @@ Kodları farkedip siteyi düzenlemişler. Şu an için tam düzgün çalışmıy
 
 ## Diğer Kaynaklar
 
-- [önerilen kaynak(]https://web.archive.org/web/20200607101310/https://1001tricks.com/how-to-get-free-edu-email-address)
+- [önerilen kaynak](https://web.archive.org/web/20200607101310/https://1001tricks.com/how-to-get-free-edu-email-address)
 - [teknolly](https://web.archive.org/save/https://teknolly.com/bedava-edu-mail-acma-yontemi-guncel)
 - [worldscholarshipforum](https://web.archive.org/web/20200607085506/https://worldscholarshipforum.com/tr/create-edu-email-account-free/)
 - [xenweb](https://web.archive.org/web/20200607085523/https://xenweb.net/ucretsiz-edu-e-posta-adresi-2020-nasil-olusturulur/)
